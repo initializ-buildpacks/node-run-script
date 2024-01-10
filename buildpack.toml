@@ -1,13 +1,13 @@
 api = "0.7"
 
 [buildpack]
-  homepage = "https://github.com/paketo-buildpacks/node-run-script"
-  id = "paketo-buildpacks/node-run-script"
-  name = "Paketo Buildpack for Node Run Script"
+  homepage = "https://github.com/initializ-buildpacks/node-run-script"
+  id = "initializ-buildpacks/node-run-script"
+  name = "Initializ Buildpack for Node Run Script"
 
   [[buildpack.licenses]]
     type = "Apache-2.0"
-    uri = "https://github.com/paketo-buildpacks/node-run-script/blob/main/LICENSE"
+    uri = "https://github.com/initializ-buildpacks/node-run-script/blob/main/LICENSE"
 
 [metadata]
   include-files = ["bin/run", "bin/build", "bin/detect", "buildpack.toml"]

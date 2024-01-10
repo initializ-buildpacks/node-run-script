@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	noderunscript "github.com/paketo-buildpacks/node-run-script"
+	noderunscript "github.com/initializ-buildpacks/node-run-script"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/fs"
 	"github.com/sclevine/spec"

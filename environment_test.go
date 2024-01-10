@@ -3,7 +3,7 @@ package noderunscript_test
 import (
 	"testing"
 
-	noderunscript "github.com/paketo-buildpacks/node-run-script"
+	noderunscript "github.com/initializ-buildpacks/node-run-script"
 	"github.com/sclevine/spec"
 
 	. "github.com/onsi/gomega"

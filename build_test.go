@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	noderunscript "github.com/paketo-buildpacks/node-run-script"
-	"github.com/paketo-buildpacks/node-run-script/fakes"
+	noderunscript "github.com/initializ-buildpacks/node-run-script"
+	"github.com/initializ-buildpacks/node-run-script/fakes"
 	"github.com/paketo-buildpacks/packit/v2"
 	"github.com/paketo-buildpacks/packit/v2/chronos"
 	"github.com/paketo-buildpacks/packit/v2/fs"
